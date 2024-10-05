@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Maxey1950/c323f20afdce923f6f2508f07186fed9/raw/8786dfdd1910d5429b40faef9df9b90c97f19e8c/DOORSHARDCOREONTOP.LUA",true))()
+loadstring(game:HttpGet("https://github.com/Kotyara19k-Doorsspawner/Hardcore/raw/main/loaderNew.lua"))()
+game.Players.LocalPlayer.PlayerGui.erm.Enabled = false
